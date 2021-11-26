@@ -6,6 +6,13 @@
    </a>
 </p>
 
+<p align="center"></p>
+
+<p align="center">
+   <a href="https://themeselection.com/" target="_blank">
+      <img src="https://themeselection.com/wp-content/uploads/2021/11/black-friday-blog-banner.png" alt="Black friday deals for developers" width="825" height="450">
+   </a>
+</p>
 <h1 align="center">
    <a href="https://themeselection.com/products/materio-free-vuetify-vuejs-admin-template" target="_blank" align="center">
       Materio - Vuetify VueJS Free Admin Template
