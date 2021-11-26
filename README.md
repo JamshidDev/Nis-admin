@@ -9,7 +9,7 @@
 <p align="center"></p>
 
 <p align="center">
-   <a href="https://themeselection.com/" target="_blank">
+   <a href="https://themeselection.com/products/materio-vuetify-vuejs-admin-template/" target="_blank">
       <img src="https://themeselection.com/wp-content/uploads/2021/11/black-friday-blog-banner.png" alt="Black friday deals for developers" width="825" height="450">
    </a>
 </p>
